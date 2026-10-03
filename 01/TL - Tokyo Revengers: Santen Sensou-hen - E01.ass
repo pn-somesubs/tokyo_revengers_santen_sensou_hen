@@ -16,7 +16,7 @@ Style: Default,Trebuchet MS,21,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:01.66,0:00:04.42,Default,,0,0,0,,Düşünmeye başladım da. Ya eğer…
-Dialogue: 0,0:00:01.66,0:00:04.42,Default,,0,0,0,,{\fs17\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever\pos(6,-5.67)}\N{\pos(20,1)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Velnoxy\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Velnoxy\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
+Dialogue: 0,0:00:01.66,0:00:04.42,Default,,0,0,0,,{\fs17\an7\fe162\b\fad(400,400)\bord2\blur5\shad\4c&H000000&\4a&HFF&\fnSweetest Cat Ever\pos(6,-5.67)}\N{\pos(20,1)}{\c&HFFFF00&}{\4c&H8485E4&}SomeSub ekip arkadaşı arıyor!\N{\pos(60,63)}{\c&HFFFFFF&}Çevirmen:{\c&HFFFF00&} Patrol\N{\pos(60,111)}{\c&HFFFFFF&}Encode:{\c&HFFFF00&} Patrol\N{\pos(60,111)}{\c&HFFFFFF&}Redaktör:{\c&HFFFF00&} Patrol\N{\c&HFFFFFF&}Discord:{\c&HFFFF00&} discord.gg/somesub
 Dialogue: 0,0:00:05.13,0:00:06.46,Default,,0,0,0,,geleceği değiştirdikten sonra,
 Dialogue: 0,0:00:07.38,0:00:11.63,Default,,0,0,0,,benim yaptığım gibi başkası\N gelip yine değiştirirse? \N
 Dialogue: 0,0:00:11.63,0:00:13.22,Default,,0,0,0,,Acaba…
